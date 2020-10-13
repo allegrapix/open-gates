@@ -1,3 +1,5 @@
+Just a small page to test my vue and Ux?Ui skills
+
 # open-gates
 
 ## Project setup
